@@ -1,0 +1,10 @@
+H:\programming\VapeNation\VapeNation\obj\Debug\VapeNation.csprojAssemblyReference.cache
+H:\programming\VapeNation\VapeNation\obj\Debug\VapeNation.FrmVape.resources
+H:\programming\VapeNation\VapeNation\obj\Debug\VapeNation.Properties.Resources.resources
+H:\programming\VapeNation\VapeNation\obj\Debug\VapeNation.csproj.GenerateResource.cache
+H:\programming\VapeNation\VapeNation\obj\Debug\VapeNation.csproj.CoreCompileInputs.cache
+H:\programming\VapeNation\VapeNation\bin\Debug\VapeNation.exe.config
+H:\programming\VapeNation\VapeNation\bin\Debug\VapeNation.exe
+H:\programming\VapeNation\VapeNation\bin\Debug\VapeNation.pdb
+H:\programming\VapeNation\VapeNation\obj\Debug\VapeNation.exe
+H:\programming\VapeNation\VapeNation\obj\Debug\VapeNation.pdb

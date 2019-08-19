@@ -23,20 +23,21 @@ namespace VapeNation
             for (int i = 0; i < 7; i++)
             {
                 int y = 10 + (i * 75);
-                obstacle[i] = new Obstacle();
+                obstacle[i] = new Obstacle(y);
             }
 
         }
 
         private void pnlGame_Paint(object sender, PaintEventArgs e)
         {
-            //get the graphics used to paint on the panel control
-            g = e.Graphics;
-            //call the Planet class's DrawPlanet method to draw the image planet1 
-            obstacle.drawobstacle(g);
+            for (int i = 0; i < 7; i++)
+            {
+                //call the Planet class's drawPlanet method to draw the images
+                obstacle[i].drawobstacle(g);
+            }
 
 
 
+            }
         }
-    }
 }
